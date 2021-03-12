@@ -20,8 +20,6 @@ namespace exercicio02
            Console.WriteLine("decimal:" + sizeof(decimal) + "\t" + decimal.MinValue + "\t\t" + decimal.MaxValue);
 
 
-
-
         }
     }
 }
