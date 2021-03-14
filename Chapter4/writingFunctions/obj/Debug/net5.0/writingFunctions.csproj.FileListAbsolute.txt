@@ -1,0 +1,16 @@
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter4/writingFunctions/bin/Debug/net5.0/writingFunctions
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter4/writingFunctions/bin/Debug/net5.0/writingFunctions.deps.json
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter4/writingFunctions/bin/Debug/net5.0/writingFunctions.runtimeconfig.json
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter4/writingFunctions/bin/Debug/net5.0/writingFunctions.runtimeconfig.dev.json
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter4/writingFunctions/bin/Debug/net5.0/writingFunctions.dll
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter4/writingFunctions/bin/Debug/net5.0/ref/writingFunctions.dll
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter4/writingFunctions/bin/Debug/net5.0/writingFunctions.pdb
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter4/writingFunctions/obj/Debug/net5.0/writingFunctions.csprojAssemblyReference.cache
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter4/writingFunctions/obj/Debug/net5.0/writingFunctions.GeneratedMSBuildEditorConfig.editorconfig
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter4/writingFunctions/obj/Debug/net5.0/writingFunctions.AssemblyInfoInputs.cache
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter4/writingFunctions/obj/Debug/net5.0/writingFunctions.AssemblyInfo.cs
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter4/writingFunctions/obj/Debug/net5.0/writingFunctions.csproj.CoreCompileInputs.cache
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter4/writingFunctions/obj/Debug/net5.0/writingFunctions.dll
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter4/writingFunctions/obj/Debug/net5.0/ref/writingFunctions.dll
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter4/writingFunctions/obj/Debug/net5.0/writingFunctions.pdb
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter4/writingFunctions/obj/Debug/net5.0/writingFunctions.genruntimeconfig.cache
