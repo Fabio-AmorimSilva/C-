@@ -1,4 +1,5 @@
 using System;
+using System.Collections.Generic;
 
 namespace person
 {
@@ -8,5 +9,8 @@ namespace person
         public DateTime dateOfBirth;
 
         public WondersOfAncientWorld FavoriteAncientWonder;
+
+        public List<Person> children = new List<Person>();
+        
     }
 }
