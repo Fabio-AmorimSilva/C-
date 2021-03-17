@@ -6,6 +6,12 @@ namespace person
     {
         static void Main(string[] args)
         {
+
+            BankAccount.interestRate = 0.012M; //store a shared value
+            var jonesAccount = new BankAccount();
+            jonesAccount.accountName = "Mrs. Jones";
+            jonesAccount.balance = 2400;
+
             var bob = new Person();
             var alice = new Person();
 
