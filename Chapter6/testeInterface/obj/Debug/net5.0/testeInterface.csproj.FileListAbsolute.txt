@@ -1,0 +1,16 @@
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter6/testeInterface/bin/Debug/net5.0/testeInterface
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter6/testeInterface/bin/Debug/net5.0/testeInterface.deps.json
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter6/testeInterface/bin/Debug/net5.0/testeInterface.runtimeconfig.json
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter6/testeInterface/bin/Debug/net5.0/testeInterface.runtimeconfig.dev.json
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter6/testeInterface/bin/Debug/net5.0/testeInterface.dll
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter6/testeInterface/bin/Debug/net5.0/ref/testeInterface.dll
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter6/testeInterface/bin/Debug/net5.0/testeInterface.pdb
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter6/testeInterface/obj/Debug/net5.0/testeInterface.csprojAssemblyReference.cache
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter6/testeInterface/obj/Debug/net5.0/testeInterface.GeneratedMSBuildEditorConfig.editorconfig
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter6/testeInterface/obj/Debug/net5.0/testeInterface.AssemblyInfoInputs.cache
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter6/testeInterface/obj/Debug/net5.0/testeInterface.AssemblyInfo.cs
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter6/testeInterface/obj/Debug/net5.0/testeInterface.csproj.CoreCompileInputs.cache
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter6/testeInterface/obj/Debug/net5.0/testeInterface.dll
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter6/testeInterface/obj/Debug/net5.0/ref/testeInterface.dll
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter6/testeInterface/obj/Debug/net5.0/testeInterface.pdb
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter6/testeInterface/obj/Debug/net5.0/testeInterface.genruntimeconfig.cache

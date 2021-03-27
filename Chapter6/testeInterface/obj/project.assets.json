@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter6/interface/interface.csproj",
-      "projectName": "interface",
-      "projectPath": "/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter6/interface/interface.csproj",
+      "projectUniqueName": "/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter6/testeInterface/testeInterface.csproj",
+      "projectName": "testeInterface",
+      "projectPath": "/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter6/testeInterface/testeInterface.csproj",
       "packagesPath": "/home/fabio/.nuget/packages/",
-      "outputPath": "/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter6/interface/obj/",
+      "outputPath": "/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter6/testeInterface/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/fabio/.nuget/NuGet/NuGet.Config"

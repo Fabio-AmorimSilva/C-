@@ -1,0 +1,16 @@
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter6/structType/bin/Debug/net5.0/structType
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter6/structType/bin/Debug/net5.0/structType.deps.json
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter6/structType/bin/Debug/net5.0/structType.runtimeconfig.json
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter6/structType/bin/Debug/net5.0/structType.runtimeconfig.dev.json
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter6/structType/bin/Debug/net5.0/structType.dll
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter6/structType/bin/Debug/net5.0/ref/structType.dll
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter6/structType/bin/Debug/net5.0/structType.pdb
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter6/structType/obj/Debug/net5.0/structType.csprojAssemblyReference.cache
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter6/structType/obj/Debug/net5.0/structType.GeneratedMSBuildEditorConfig.editorconfig
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter6/structType/obj/Debug/net5.0/structType.AssemblyInfoInputs.cache
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter6/structType/obj/Debug/net5.0/structType.AssemblyInfo.cs
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter6/structType/obj/Debug/net5.0/structType.csproj.CoreCompileInputs.cache
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter6/structType/obj/Debug/net5.0/structType.dll
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter6/structType/obj/Debug/net5.0/ref/structType.dll
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter6/structType/obj/Debug/net5.0/structType.pdb
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter6/structType/obj/Debug/net5.0/structType.genruntimeconfig.cache
