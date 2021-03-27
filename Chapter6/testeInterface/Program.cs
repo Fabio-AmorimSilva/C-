@@ -50,6 +50,32 @@ namespace testeInterface
 
              }
 
+             Employee john = new Employee{
+                 name = "John Jones",
+                 dateOfBirth = new DateTime(1990, 7 , 28)
+
+             };
+
+             john.employeeCode = "JJ001";
+             john.hireDate = new DateTime(2014, 11, 23);
+
+             Console.WriteLine($"Person ToString: {john.ToString()}");
+
+             try{
+
+                john.timeTravel(new DateTime(1999, 12, 31));
+                john.timeTravel(new DateTime(1842, 7, 25));
+                
+
+             }catch(PersonException exPerson){
+                 Console.WriteLine(exPerson.Message);
+
+             }
+
+             //john.writeToConsole();
+
+             //Console.WriteLine($"{john.name} was hired on {john.hireDate:dd/MM/yy}.");
+
              /*
              Console.WriteLine($"{harry.name} has {harry.children.Count} children.");
              Console.WriteLine($"{mary.name} has {mary.children.Count} children.");

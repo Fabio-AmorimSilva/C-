@@ -6,10 +6,11 @@ namespace testeInterface
     public class Person : IComparable<Person>
     {
         public string name;
-        private DateTime dateOfBirth;
+        public DateTime dateOfBirth;
         public List<Person>children = new List<Person>();
 
-        public void writeToConsole(){
+
+        public virtual void writeToConsole(){
             Console.WriteLine($"{this.name} was born on a {this.dateOfBirth:dddd}");
 
 
@@ -44,10 +45,24 @@ namespace testeInterface
 
         }
 
-        public int CompareTo(Person other)
-        {
+        public int CompareTo(Person other){
             return name.CompareTo(other.name);
             
+        }
+
+        public override string ToString(){
+            return $"{name} is a {base.ToString()}";
+
+        }
+
+        public void timeTravel(DateTime when){
+            if(when <= dateOfBirth){
+                throw new PersonException("If you travel to a date before your birth, then universe will explode.");
+
+            }else{
+                Console.WriteLine($"Welcome to {when:yyyy}");
+
+            }
         }
     }
 }
