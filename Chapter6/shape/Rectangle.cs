@@ -4,6 +4,7 @@ namespace shape
     {
         public Rectangle(double height, double width) : base(height, width)
         {
+            
         }
 
         public double area(double medida1, double medida2)
