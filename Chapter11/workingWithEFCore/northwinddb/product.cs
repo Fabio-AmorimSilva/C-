@@ -9,10 +9,10 @@ namespace northwinddb
 
         [Required]
         [StringLength(40)]
-        public string productName{get; set;}
+        public string ProductName{get; set;}
 
         [Column("UnitPrice", TypeName = "money")]
-        public decimal? cost{get; set;}
+        public decimal? Cost{get; set;}
 
         [Column("UnitsInStock")]
         public short? stock{get; set;}
@@ -20,7 +20,7 @@ namespace northwinddb
         public bool discontinued{get; set;}
         // these two define the foreign key relationship
         // to the categories table
-        public int categoryID{get; set;}
+        public int CategoryID{get; set;}
 
         public virtual category category{get; set;}
         

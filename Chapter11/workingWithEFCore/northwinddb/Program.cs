@@ -14,7 +14,14 @@ namespace northwinddb
         {
             //queryingCategories();
             //queryingPrices();
-            queryingLike();
+            //queryingLike();
+
+            if(addProduct(6, "Bob's Burguers", 500M)){
+                Console.WriteLine("Product add!");
+
+            }
+
+            listProducts();
         }
 
         static void queryingCategories(){
@@ -44,12 +51,12 @@ namespace northwinddb
                 price = decimal.Parse(Console.ReadLine());
 
                 IQueryable<product> prods = db.products
-                .Where(product => product.cost > price)
-                .OrderByDescending(product => product.cost);
+                .Where(product => product.Cost > price)
+                .OrderByDescending(product => product.Cost);
 
                 foreach(product item in prods){
                     Console.WriteLine("{0}: {1} costs{2:$#,##0.00} and has {3} in stock.",
-                    item.productID, item.productName, item.cost, item.stock);
+                    item.productID, item.ProductName, item.Cost, item.stock);
                 }
             }
         }
@@ -63,13 +70,44 @@ namespace northwinddb
                 string input = Console.ReadLine();
 
                 IQueryable<product> prods = db.products
-                .Where(p => EF.Functions.Like(p.productName, $"%{input}"));
+                .Where(p => EF.Functions.Like(p.ProductName, $"%{input}"));
 
                 foreach(product item in prods){
                     Console.WriteLine("{0} has {1} units in stock. Discontinued? {2}",
-                    item.productName, item.stock, item.discontinued);
+                    item.ProductName, item.stock, item.discontinued);
                 }
 
+            }
+        }
+
+        static bool addProduct(int categoryID, string productName, decimal? price){
+            using (var db = new northwind()){
+                var newProduct = new product{
+                    CategoryID = categoryID,
+                    ProductName = productName,
+                    Cost = price
+                };
+
+                //mark products as add in change tracking
+                db.products.Add(newProduct);
+
+                // save tracked change to database
+                int affected = db.SaveChanges();
+                return(affected == 1);
+
+            }
+        }
+
+        static void listProducts(){
+            using (var db = new northwind()){
+                Console.WriteLine("{0, -3} {1, -35} {2, 8} {3, 5} {4}",
+                "ID", "Product Name", "Cost", "Stock", "Disc.");
+
+                foreach(var item in db.products.OrderByDescending(p => p.Cost)){
+                    Console.WriteLine("{0:000} {1,-35} {2,8:$#,##0.00} {3,5} {4}", 
+                    item.productID, item.ProductName, item.Cost,
+                    item.stock, item.discontinued);
+                }
             }
         }
     }
