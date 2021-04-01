@@ -27,6 +27,10 @@ namespace northwinddb
             .Property(category => category.categoryName)
             .IsRequired() //NOT NULL
             .HasMaxLength(15); 
+
+            //global filter to remove discontinued products
+            modelBuilder.Entity<product>().HasQueryFilter(p => !p.discontinued);
+            
         }
 
     }
