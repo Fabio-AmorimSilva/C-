@@ -16,7 +16,7 @@ namespace northwinddb
             //queryingPrices();
             //queryingLike();
 
-            if(addProduct(6, "Bob's Burguers", 500M)){
+            if(addProduct("Bob's Burguers", 500M)){
                 Console.WriteLine("Product add!");
 
             }
@@ -80,10 +80,9 @@ namespace northwinddb
             }
         }
 
-        static bool addProduct(int categoryID, string productName, decimal? price){
+        static bool addProduct(string productName, decimal? price){
             using (var db = new northwind()){
                 var newProduct = new product{
-                    CategoryID = categoryID,
                     ProductName = productName,
                     Cost = price
                 };

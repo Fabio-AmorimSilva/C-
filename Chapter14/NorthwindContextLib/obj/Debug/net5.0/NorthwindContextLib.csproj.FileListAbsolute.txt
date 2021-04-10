@@ -1,0 +1,15 @@
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter14/NorthwindContextLib/bin/Debug/net5.0/NorthwindContextLib.deps.json
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter14/NorthwindContextLib/bin/Debug/net5.0/NorthwindContextLib.dll
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter14/NorthwindContextLib/bin/Debug/net5.0/ref/NorthwindContextLib.dll
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter14/NorthwindContextLib/bin/Debug/net5.0/NorthwindContextLib.pdb
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter14/NorthwindContextLib/obj/Debug/net5.0/NorthwindContextLib.csprojAssemblyReference.cache
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter14/NorthwindContextLib/obj/Debug/net5.0/NorthwindContextLib.GeneratedMSBuildEditorConfig.editorconfig
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter14/NorthwindContextLib/obj/Debug/net5.0/NorthwindContextLib.AssemblyInfoInputs.cache
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter14/NorthwindContextLib/obj/Debug/net5.0/NorthwindContextLib.AssemblyInfo.cs
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter14/NorthwindContextLib/obj/Debug/net5.0/NorthwindContextLib.csproj.CoreCompileInputs.cache
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter14/NorthwindContextLib/obj/Debug/net5.0/NorthwindContextLib.dll
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter14/NorthwindContextLib/obj/Debug/net5.0/ref/NorthwindContextLib.dll
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter14/NorthwindContextLib/obj/Debug/net5.0/NorthwindContextLib.pdb
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter14/NorthwindContextLib/bin/Debug/net5.0/NorthwindEntitiesLib.dll
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter14/NorthwindContextLib/bin/Debug/net5.0/NorthwindEntitiesLib.pdb
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter14/NorthwindContextLib/obj/Debug/net5.0/NorthwindContextLib.csproj.CopyComplete
