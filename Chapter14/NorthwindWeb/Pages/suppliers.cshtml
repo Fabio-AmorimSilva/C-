@@ -36,10 +36,14 @@
         </tbody>
     </table>
     <div class="row">
-        <p>Enter a name for a new supplier: </p>
         <form method="POST">
-            <div><input asp-for="Supplier.CompanyName" /></div>
-            <input type="submit" />
+            <label>Enter a new supplier name: </label>
+                <input class="form-control col-sm-2" asp-for="Supplier.CompanyName" /><br/>
+            <label>Enter a new phone for supplier: </label>
+                <input class="form-control col-sm-2" asp-for="Supplier.Phone" /><br/>
+            <label>Enter a new Country for supplier: </label>
+                <input class="form-control col-sm-2" asp-for="Supplier.Country" /><br/>
+            <input class="btn btn-dark" type="submit" />
         </form>
     </div>
 

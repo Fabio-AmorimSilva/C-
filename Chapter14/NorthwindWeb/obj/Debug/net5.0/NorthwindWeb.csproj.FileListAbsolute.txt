@@ -62,3 +62,8 @@
 /home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter14/NorthwindWeb/bin/Debug/net5.0/NorthwindEntitiesLib.dll
 /home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter14/NorthwindWeb/bin/Debug/net5.0/NorthwindContextLib.pdb
 /home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter14/NorthwindWeb/bin/Debug/net5.0/NorthwindEntitiesLib.pdb
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter14/NorthwindWeb/bin/Debug/net5.0/NorthwindEmployees.Views.dll
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter14/NorthwindWeb/bin/Debug/net5.0/NorthwindEmployees.Views.pdb
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter14/NorthwindWeb/bin/Debug/net5.0/NorthwindEmployees.dll
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter14/NorthwindWeb/bin/Debug/net5.0/NorthwindEmployees.pdb
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter14/NorthwindWeb/obj/Debug/net5.0/NorthwindWeb.MvcApplicationPartsAssemblyInfo.cs
