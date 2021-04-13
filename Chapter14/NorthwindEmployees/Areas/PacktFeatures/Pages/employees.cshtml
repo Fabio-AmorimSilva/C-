@@ -7,10 +7,12 @@
     <h1 class="display-2">Employees</h1>
 </div>
 <div class="row">
-    @foreach(string name in Model.Employees)
+    @foreach(string name in Model.name)
     {
-        <div class="col-sm-3">
-           <p>@name</p>
+        <div class="card border-dark mb-3" style="max-width: 18rem;">
+            <div class="card-header">
+                @name
+            </div>
         </div>
 
     }

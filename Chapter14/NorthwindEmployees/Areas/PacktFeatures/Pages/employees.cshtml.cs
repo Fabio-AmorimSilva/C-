@@ -19,11 +19,12 @@ namespace NorthwindEmployees.PacktFeatures.Pages
 
         }
 
-        public IEnumerable<string> Employees{get; set;}
+        public IEnumerable<string> name{get; set;}
         public void OnGet()
         {
+            ViewData["Title"] = "Northwind Web Site - Employeers";
 
-            Employees = db.Employees.Select(e => e.FirstName);
+            name = db.Employees.Select(e => e.FirstName);
 
         }
     }
