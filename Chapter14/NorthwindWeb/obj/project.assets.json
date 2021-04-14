@@ -404,6 +404,22 @@
           "bin/placeholder/NorthwindContextLib.dll": {}
         }
       },
+      "NorthwindCustomers/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "NorthwindContextLib": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/NorthwindCustomers.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/NorthwindCustomers.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
+      },
       "NorthwindEmployees/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
@@ -1015,6 +1031,11 @@
       "path": "../NorthwindContextLib/NorthwindContextLib.csproj",
       "msbuildProject": "../NorthwindContextLib/NorthwindContextLib.csproj"
     },
+    "NorthwindCustomers/1.0.0": {
+      "type": "project",
+      "path": "../NorthwindCustomers/NorthwindCustomers.csproj",
+      "msbuildProject": "../NorthwindCustomers/NorthwindCustomers.csproj"
+    },
     "NorthwindEmployees/1.0.0": {
       "type": "project",
       "path": "../NorthwindEmployees/NorthwindEmployees.csproj",
@@ -1029,6 +1050,7 @@
   "projectFileDependencyGroups": {
     "net5.0": [
       "NorthwindContextLib >= 1.0.0",
+      "NorthwindCustomers >= 1.0.0",
       "NorthwindEmployees >= 1.0.0"
     ]
   },
@@ -1059,6 +1081,9 @@
           "projectReferences": {
             "/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter14/NorthwindContextLib/NorthwindContextLib.csproj": {
               "projectPath": "/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter14/NorthwindContextLib/NorthwindContextLib.csproj"
+            },
+            "/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter14/NorthwindCustomers/NorthwindCustomers.csproj": {
+              "projectPath": "/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter14/NorthwindCustomers/NorthwindCustomers.csproj"
             },
             "/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter14/NorthwindEmployees/NorthwindEmployees.csproj": {
               "projectPath": "/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter14/NorthwindEmployees/NorthwindEmployees.csproj"
