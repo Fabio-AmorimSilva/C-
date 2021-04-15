@@ -35,6 +35,42 @@ namespace NorthwindMvc.Controllers
             return View(model);
         }
 
+        public IActionResult ProductDetail(int? id){
+            if(!id.HasValue){
+                return NotFound("You must pass a product ID in the route, for example, " + 
+                " /Home/ProductDetail/21");
+            }
+
+            var model = db.Products.SingleOrDefault(p => p.ProductID == id);
+
+            if(model == null){
+                return NotFound($"Product with ID of {id} not found");
+
+            }
+
+            return View(model); //pass model to view and the return result
+        }
+
+        public IActionResult ModelBinding(){
+            return View(); // the page with a form to submit
+
+        }
+
+        [HttpPost]
+        public IActionResult ModelBinding(Thing thing){
+
+            var model = new HomeModelBindingViewModel{
+            Thing = thing,
+            HasErrors = !ModelState.IsValid,
+            ValidationErrors = ModelState.Values
+            .SelectMany(state => state.Errors)
+            .Select(error => error.ErrorMessage)
+            };
+         
+            return View(model); //show the model bound thing
+
+        }
+
         //Mudança de route para acesso de página -> [Route("private")]
         public IActionResult Privacy()
         {
