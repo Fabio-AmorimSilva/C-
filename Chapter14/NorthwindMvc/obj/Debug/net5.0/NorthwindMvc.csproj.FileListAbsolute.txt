@@ -86,3 +86,4 @@
 /home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter14/NorthwindMvc/bin/Debug/net5.0/NorthwindEntitiesLib.pdb
 /home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter14/NorthwindMvc/obj/Debug/net5.0/Razor/Views/Home/ProductDetail.cshtml.g.cs
 /home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter14/NorthwindMvc/obj/Debug/net5.0/Razor/Views/Home/ModelBinding.cshtml.g.cs
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter14/NorthwindMvc/obj/Debug/net5.0/Razor/Views/Home/ProductsThatCostMoreThan.cshtml.g.cs
