@@ -1,6 +1,4 @@
 using System;
-using System.Collections.Generic;
-using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
@@ -11,7 +9,6 @@ using Microsoft.AspNetCore.Routing;
 using System.IO;
 using Microsoft.EntityFrameworkCore;
 using NorthwindContextLib;
-using Packt.CS7;
 
 namespace NorthwindWeb
 {
