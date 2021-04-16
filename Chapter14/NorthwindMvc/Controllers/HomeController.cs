@@ -94,6 +94,24 @@ namespace NorthwindMvc.Controllers
             return View(model); // pass model to view
         }
 
+        public async Task<IActionResult> CategoryDetails(int? id){
+
+            if(id == null){
+                return NotFound("You must enter a valid product category name. " +
+                " Beverages/Condiments/Confecttions/Dairy Products/Grains/Cereals/Meat/Poultry/Produce/Seafood. ");
+
+            }
+
+            var model = await db.Categories.SingleOrDefaultAsync(cn => cn.CategoryID == id);
+
+            if(model == null){
+                return NotFound("Category not found!");
+
+            }
+
+            return View(model);
+        }
+
         //Mudança de route para acesso de página -> [Route("private")]
         public IActionResult Privacy()
         {
