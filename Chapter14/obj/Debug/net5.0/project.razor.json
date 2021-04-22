@@ -15639,6 +15639,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter14/NorthwindMvc/Views/Home/ProductsThatCostMoreThan.cshtml",
+      "TargetPath": "NorthwindMvc\\Views\\Home\\ProductsThatCostMoreThan.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter14/NorthwindMvc/Areas/Identity/Pages/_ViewStart.cshtml",
       "TargetPath": "NorthwindMvc\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
       "FileKind": "mvc"
@@ -15679,6 +15684,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter14/NorthwindMvc/Views/Home/ProductDetail.cshtml",
+      "TargetPath": "NorthwindMvc\\Views\\Home\\ProductDetail.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter14/NorthwindWeb/Pages/_ViewStart.cshtml",
       "TargetPath": "NorthwindWeb\\Pages\\_ViewStart.cshtml",
       "FileKind": "mvc"
@@ -15699,8 +15709,18 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter14/NorthwindMvc/Views/Home/CategoryDetails.cshtml",
+      "TargetPath": "NorthwindMvc\\Views\\Home\\CategoryDetails.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter14/NorthwindEmployees/Areas/PacktFeatures/Pages/employees.cshtml",
       "TargetPath": "NorthwindEmployees\\Areas\\PacktFeatures\\Pages\\employees.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter14/NorthwindMvc/Views/Home/ModelBinding.cshtml",
+      "TargetPath": "NorthwindMvc\\Views\\Home\\ModelBinding.cshtml",
       "FileKind": "mvc"
     },
     {
