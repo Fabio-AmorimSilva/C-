@@ -35,7 +35,7 @@ namespace NorthwindService
             string dataBasePath = Path.Combine("..", "Northwind.Sqlite3.db");
 
             services.AddDbContext<Northwind>(options => 
-                options.UseSqlite($"Data Source{dataBasePath}"));
+                options.UseSqlite($"Data Source={dataBasePath}"));
 
             services.AddControllers(options =>
                 {

@@ -22,7 +22,7 @@ namespace NorthwindService.Repositories
 
             this.db = db;
 
-            //pre-load customers from database as a normal
+            //Pre-load customers from database as a normal
             //Dictionary with CustomerID as the key
             //then convert to a thread-safe ConcurrentDictionary
             if(customersCache == null){
@@ -37,12 +37,12 @@ namespace NorthwindService.Repositories
             //normalize CustomerID into uppercase
             c.CustomerID = c.CustomerID.ToUpper();
 
-            //add to database using EF Core
+            //Add to database using EF Core
             EntityEntry<Customer> added = await db.Customers.AddAsync(c);
             int affected = await db.SaveChangesAsync();
             if(affected == 1){
-                // if the customer is new, add it to cache, else
-                // call UpdateCache method
+                // If the customer is new, add it to cache, else
+                // Call UpdateCache method
                 return customersCache.AddOrUpdate(c.CustomerID, c, UpdateCache);
 
             }else{
@@ -54,7 +54,7 @@ namespace NorthwindService.Repositories
 
         public Task<IEnumerable<Customer>> RetrieveAllAsync()
         {
-            //for performance, get from cache
+            //For performance, get from cache
             return Task.Run<IEnumerable<Customer>>(
                 () => customersCache.Values);
         }

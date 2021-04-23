@@ -1,4 +1,6 @@
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations.Schema;
+using System.Xml.Serialization;
 using NorthwindEntitesLib;
 
 namespace Packt.CS7
@@ -16,6 +18,9 @@ namespace Packt.CS7
             public string Country { get; set; }
             public string Phone { get; set; }
             public string Fax { get; set; }
+
+            [InverseProperty(nameof(Order.Customer))]
+            [XmlIgnore]
             public ICollection<Order> Orders { get; set; }
         }
     }

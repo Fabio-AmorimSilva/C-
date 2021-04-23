@@ -1,6 +1,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using NorthwindService.Repositories;
 using Packt.CS7;
@@ -15,7 +16,7 @@ namespace NorthwindService.Controllers
     {
         private ICustomerRepository repo;
 
-        //constructor injects repository registered in Startup.cs
+        //Constructor injects repository registered in Startup.cs
         public CustomersController(ICustomerRepository repo){
 
             this.repo = repo;
@@ -77,7 +78,6 @@ namespace NorthwindService.Controllers
 
         //PUT: api/customer/[id]
         //BODY: Customer (JSON, XML)
-
         [HttpPut("{id}")]
         [ProducesResponseType(204)]
         [ProducesResponseType(400)]
@@ -112,6 +112,20 @@ namespace NorthwindService.Controllers
         [ProducesResponseType(400)]
         [ProducesResponseType(404)]
         public async Task<IActionResult> Delete(string id){
+
+            //Take control of problem details
+            if(id == "bad"){
+                var problemDetails = new ProblemDetails{
+                    Status = StatusCodes.Status400BadRequest,
+                    Type = "https://localhost:5001/customers/failed-to-delete",
+                    Title = $"Customer ID {id} found but failed to delete.",
+                    Detail = "More details like Company Name, Country and so on.",
+                    Instance = HttpContext.Request.Path
+                };
+
+                return BadRequest(problemDetails); //400 Bad Request
+
+            }
 
             var existing = await repo.RetrieveAsync(id);
             if(existing == null){
