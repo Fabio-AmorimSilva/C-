@@ -15,6 +15,7 @@ using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
 using NorthwindContextLib;
+using NorthwindService.Repositories;
 
 namespace NorthwindService
 {
@@ -61,6 +62,10 @@ namespace NorthwindService
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "NorthwindService", Version = "v1" });
             });
+
+            //Register the CustomerRepository for use at runtime
+            services.AddScoped<ICustomerRepository, CustomerRepository>();
+            
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
