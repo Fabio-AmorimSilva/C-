@@ -16,6 +16,7 @@ using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
 using NorthwindContextLib;
 using NorthwindService.Repositories;
+using Swashbuckle.AspNetCore.SwaggerUI;
 
 namespace NorthwindService
 {
@@ -65,6 +66,15 @@ namespace NorthwindService
 
             //Register the CustomerRepository for use at runtime
             services.AddScoped<ICustomerRepository, CustomerRepository>();
+
+            //Register the Swagger generator and define a Swagger document
+            //for Northwind service
+            services.AddSwaggerGen(options => {
+                options.SwaggerDoc(name: "v0", info: new OpenApiInfo{
+                    Title = "Northwind Service API", Version="v1"
+                });
+            });
+
             
         }
 
@@ -75,7 +85,14 @@ namespace NorthwindService
             {
                 app.UseDeveloperExceptionPage();
                 app.UseSwagger();
-                app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "NorthwindService v1"));
+                app.UseSwaggerUI(c => {
+                    c.SwaggerEndpoint("/swagger/v1/swagger.json", 
+                    "NorthwindService Service API Version 1");
+                    
+                    c.SupportedSubmitMethods(new[] {
+                        SubmitMethod.Get, SubmitMethod.Post,
+                        SubmitMethod.Put, SubmitMethod.Delete });
+                });
             }
 
             app.UseHttpsRedirection();
