@@ -75,7 +75,8 @@ namespace NorthwindService
                 });
             });
 
-            
+            services.AddCors();
+
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -100,6 +101,13 @@ namespace NorthwindService
             app.UseRouting();
 
             app.UseAuthorization();
+
+            //must be after UseRouting and before UseEndpoints
+            app.UseCors(configurePolicy: options =>{
+                options.WithMethods("GET", "POST", "PUT", "DELETE");
+                options.WithOrigins(
+                    "https://localhost:5002"); //for MVC client
+            });
 
             app.UseEndpoints(endpoints =>
             {

@@ -45,7 +45,7 @@ namespace NorthwindMvc
                 .AddEntityFrameworkStores<ApplicationDbContext>();
             services.AddControllersWithViews();
 
-            services.AddHttpClient(name: "NortwindService",
+            services.AddHttpClient(name: "NorthwindService",
                 configureClient: options =>
                 {
                     options.BaseAddress = new Uri("https://localhost:5001/");
@@ -67,9 +67,9 @@ namespace NorthwindMvc
             }
             else
             {
-                app.UseExceptionHandler("/Home/Error");
+                //app.UseExceptionHandler("/Home/Error");
                 // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
-                app.UseHsts();
+                //app.UseHsts();
             }
             app.UseHttpsRedirection();
             app.UseStaticFiles();
@@ -77,7 +77,7 @@ namespace NorthwindMvc
             app.UseRouting();
 
             app.UseAuthentication();
-            app.UseAuthorization();
+            //app.UseAuthorization();
 
             app.UseEndpoints(endpoints =>
             {
