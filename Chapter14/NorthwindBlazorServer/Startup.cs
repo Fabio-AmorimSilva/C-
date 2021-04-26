@@ -10,6 +10,10 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using NorthwindBlazorServer.Data;
+using Microsoft.EntityFrameworkCore;
+using Packt.CS7;
+using NorthwindContextLib;
+using System.IO;
 
 namespace NorthwindBlazorServer
 {
@@ -26,6 +30,12 @@ namespace NorthwindBlazorServer
         // For more information on how to configure your application, visit https://go.microsoft.com/fwlink/?LinkID=398940
         public void ConfigureServices(IServiceCollection services)
         {
+
+            string dataBasePath = Path.Combine("..", "Northwind.Sqlite3.db");
+
+            services.AddDbContext<Northwind>(options =>
+                options.UseSqlite($"Data Source={dataBasePath}"));
+
             services.AddRazorPages();
             services.AddServerSideBlazor();
             services.AddSingleton<WeatherForecastService>();

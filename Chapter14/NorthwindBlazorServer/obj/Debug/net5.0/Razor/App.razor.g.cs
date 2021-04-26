@@ -79,6 +79,41 @@ using NorthwindBlazorServer.Shared;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 11 "/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter14/NorthwindBlazorServer/_Imports.razor"
+using NorthwindBlazorServer.Data;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 12 "/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter14/NorthwindBlazorServer/_Imports.razor"
+using Microsoft.EntityFrameworkCore;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 13 "/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter14/NorthwindBlazorServer/_Imports.razor"
+using Packt.CS7;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 14 "/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter14/NorthwindBlazorServer/_Imports.razor"
+using NorthwindContextLib;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 15 "/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter14/NorthwindBlazorServer/_Imports.razor"
+using System.IO;
+
+#line default
+#line hidden
+#nullable disable
     public partial class App : Microsoft.AspNetCore.Components.ComponentBase
     {
         #pragma warning disable 1998

@@ -1,0 +1,12 @@
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter14/NorthwindBlazorWasm/Shared/bin/Debug/net5.0/NorthwindBlazorWasm.Shared.deps.json
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter14/NorthwindBlazorWasm/Shared/bin/Debug/net5.0/NorthwindBlazorWasm.Shared.dll
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter14/NorthwindBlazorWasm/Shared/bin/Debug/net5.0/ref/NorthwindBlazorWasm.Shared.dll
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter14/NorthwindBlazorWasm/Shared/bin/Debug/net5.0/NorthwindBlazorWasm.Shared.pdb
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter14/NorthwindBlazorWasm/Shared/obj/Debug/net5.0/NorthwindBlazorWasm.Shared.csprojAssemblyReference.cache
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter14/NorthwindBlazorWasm/Shared/obj/Debug/net5.0/NorthwindBlazorWasm.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter14/NorthwindBlazorWasm/Shared/obj/Debug/net5.0/NorthwindBlazorWasm.Shared.AssemblyInfoInputs.cache
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter14/NorthwindBlazorWasm/Shared/obj/Debug/net5.0/NorthwindBlazorWasm.Shared.AssemblyInfo.cs
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter14/NorthwindBlazorWasm/Shared/obj/Debug/net5.0/NorthwindBlazorWasm.Shared.csproj.CoreCompileInputs.cache
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter14/NorthwindBlazorWasm/Shared/obj/Debug/net5.0/NorthwindBlazorWasm.Shared.dll
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter14/NorthwindBlazorWasm/Shared/obj/Debug/net5.0/ref/NorthwindBlazorWasm.Shared.dll
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter14/NorthwindBlazorWasm/Shared/obj/Debug/net5.0/NorthwindBlazorWasm.Shared.pdb
