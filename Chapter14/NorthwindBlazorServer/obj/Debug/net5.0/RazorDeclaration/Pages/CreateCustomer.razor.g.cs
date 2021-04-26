@@ -117,8 +117,8 @@ using System.IO;
 #line default
 #line hidden
 #nullable disable
-    [Microsoft.AspNetCore.Components.RouteAttribute("/customers")]
-    public partial class Customers : Microsoft.AspNetCore.Components.ComponentBase
+    [Microsoft.AspNetCore.Components.RouteAttribute("/createcustomer")]
+    public partial class CreateCustomer : Microsoft.AspNetCore.Components.ComponentBase
     {
         #pragma warning disable 1998
         protected override void BuildRenderTree(Microsoft.AspNetCore.Components.Rendering.RenderTreeBuilder __builder)
@@ -126,19 +126,20 @@ using System.IO;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 49 "/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter14/NorthwindBlazorServer/Pages/Customers.razor"
-      
-    private IEnumerable<Customer> customers;
+#line 10 "/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter14/NorthwindBlazorServer/Pages/CreateCustomer.razor"
+       
+    private Customer customer = new Customer();
 
-    protected override async Task OnInitializedAsync(){
-
-        customers = await service.GetCustomersAsync();
-
+    private async Task Create(){
+        await service.CreateCustomerAsync(customer);
+        navigation.NavigateTo("customer");
+        
     }
 
 #line default
 #line hidden
 #nullable disable
+        [global::Microsoft.AspNetCore.Components.InjectAttribute] private NavigationManager navigation { get; set; }
         [global::Microsoft.AspNetCore.Components.InjectAttribute] private INorthwindService service { get; set; }
     }
 }

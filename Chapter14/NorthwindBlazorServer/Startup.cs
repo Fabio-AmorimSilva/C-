@@ -36,6 +36,8 @@ namespace NorthwindBlazorServer
             services.AddDbContext<Northwind>(options =>
                 options.UseSqlite($"Data Source={dataBasePath}"));
 
+            services.AddTransient<INorthwindService, NorthwindService>();
+
             services.AddRazorPages();
             services.AddServerSideBlazor();
             services.AddSingleton<WeatherForecastService>();

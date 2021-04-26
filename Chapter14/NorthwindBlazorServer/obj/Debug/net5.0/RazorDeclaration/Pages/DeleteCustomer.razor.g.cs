@@ -117,8 +117,8 @@ using System.IO;
 #line default
 #line hidden
 #nullable disable
-    [Microsoft.AspNetCore.Components.RouteAttribute("/customers")]
-    public partial class Customers : Microsoft.AspNetCore.Components.ComponentBase
+    [Microsoft.AspNetCore.Components.RouteAttribute("/deletecustomer/{customerid}")]
+    public partial class DeleteCustomer : Microsoft.AspNetCore.Components.ComponentBase
     {
         #pragma warning disable 1998
         protected override void BuildRenderTree(Microsoft.AspNetCore.Components.Rendering.RenderTreeBuilder __builder)
@@ -126,19 +126,27 @@ using System.IO;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 49 "/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter14/NorthwindBlazorServer/Pages/Customers.razor"
-      
-    private IEnumerable<Customer> customers;
+#line 13 "/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter14/NorthwindBlazorServer/Pages/DeleteCustomer.razor"
+       
 
-    protected override async Task OnInitializedAsync(){
+    [Parameter]
+    public string CustomerID{get; set;}
+    private Customer customer = new Customer();
+    protected async override Task OnParametersSetAsync(){
+        customer = await service.GetCustomerAsync(CustomerID);
 
-        customers = await service.GetCustomersAsync();
+    }
 
+    private async Task Delete(){
+        await service.DeleteCustomerAsync(CustomerID);
+        navigation.NavigateTo("customers");
+        
     }
 
 #line default
 #line hidden
 #nullable disable
+        [global::Microsoft.AspNetCore.Components.InjectAttribute] private NavigationManager navigation { get; set; }
         [global::Microsoft.AspNetCore.Components.InjectAttribute] private INorthwindService service { get; set; }
     }
 }

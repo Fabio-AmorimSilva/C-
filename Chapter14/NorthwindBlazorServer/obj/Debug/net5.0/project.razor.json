@@ -12,6 +12,39 @@
   "ProjectWorkspaceState": {
     "TagHelpers": [
       {
+        "HashCode": -2126509687,
+        "Kind": "Components.Component",
+        "Name": "NorthwindBlazorServer.Pages.CreateCustomer",
+        "AssemblyName": "NorthwindBlazorServer",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "CreateCustomer"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "NorthwindBlazorServer.Pages.CreateCustomer"
+        }
+      },
+      {
+        "HashCode": -843309138,
+        "Kind": "Components.Component",
+        "Name": "NorthwindBlazorServer.Pages.CreateCustomer",
+        "AssemblyName": "NorthwindBlazorServer",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "NorthwindBlazorServer.Pages.CreateCustomer"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "NorthwindBlazorServer.Pages.CreateCustomer",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": -339482843,
         "Kind": "Components.Component",
         "Name": "NorthwindBlazorServer.Pages.Counter",
@@ -41,6 +74,228 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "NorthwindBlazorServer.Pages.Counter",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 947316137,
+        "Kind": "Components.Component",
+        "Name": "NorthwindBlazorServer.Pages.FetchData",
+        "AssemblyName": "NorthwindBlazorServer",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "FetchData"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "NorthwindBlazorServer.Pages.FetchData"
+        }
+      },
+      {
+        "HashCode": 55119837,
+        "Kind": "Components.Component",
+        "Name": "NorthwindBlazorServer.Pages.FetchData",
+        "AssemblyName": "NorthwindBlazorServer",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "NorthwindBlazorServer.Pages.FetchData"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "NorthwindBlazorServer.Pages.FetchData",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1587649346,
+        "Kind": "Components.Component",
+        "Name": "NorthwindBlazorServer.Pages.CustomerDetail",
+        "AssemblyName": "NorthwindBlazorServer",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "CustomerDetail"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Customer",
+            "TypeName": "Packt.CS7.Customer",
+            "Metadata": {
+              "Common.PropertyName": "Customer"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "ButtonText",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "ButtonText"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "ButtonStyle",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "ButtonStyle"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "OnValidSubmit",
+            "TypeName": "Microsoft.AspNetCore.Components.EventCallback",
+            "Metadata": {
+              "Common.PropertyName": "OnValidSubmit",
+              "Components.EventCallback": "True"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "NorthwindBlazorServer.Pages.CustomerDetail"
+        }
+      },
+      {
+        "HashCode": 2014090815,
+        "Kind": "Components.Component",
+        "Name": "NorthwindBlazorServer.Pages.CustomerDetail",
+        "AssemblyName": "NorthwindBlazorServer",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "NorthwindBlazorServer.Pages.CustomerDetail"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Customer",
+            "TypeName": "Packt.CS7.Customer",
+            "Metadata": {
+              "Common.PropertyName": "Customer"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "ButtonText",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "ButtonText"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "ButtonStyle",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "ButtonStyle"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "OnValidSubmit",
+            "TypeName": "Microsoft.AspNetCore.Components.EventCallback",
+            "Metadata": {
+              "Common.PropertyName": "OnValidSubmit",
+              "Components.EventCallback": "True"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "NorthwindBlazorServer.Pages.CustomerDetail",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 417441087,
+        "Kind": "Components.Component",
+        "Name": "NorthwindBlazorServer.Pages.DeleteCustomer",
+        "AssemblyName": "NorthwindBlazorServer",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "DeleteCustomer"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "CustomerID",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "CustomerID"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "NorthwindBlazorServer.Pages.DeleteCustomer"
+        }
+      },
+      {
+        "HashCode": 729402734,
+        "Kind": "Components.Component",
+        "Name": "NorthwindBlazorServer.Pages.DeleteCustomer",
+        "AssemblyName": "NorthwindBlazorServer",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "NorthwindBlazorServer.Pages.DeleteCustomer"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "CustomerID",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "CustomerID"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "NorthwindBlazorServer.Pages.DeleteCustomer",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 535141712,
+        "Kind": "Components.Component",
+        "Name": "NorthwindBlazorServer.Pages.Customers",
+        "AssemblyName": "NorthwindBlazorServer",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Customers"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "NorthwindBlazorServer.Pages.Customers"
+        }
+      },
+      {
+        "HashCode": 1028955046,
+        "Kind": "Components.Component",
+        "Name": "NorthwindBlazorServer.Pages.Customers",
+        "AssemblyName": "NorthwindBlazorServer",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "NorthwindBlazorServer.Pages.Customers"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "NorthwindBlazorServer.Pages.Customers",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -78,35 +333,88 @@
         }
       },
       {
-        "HashCode": 947316137,
+        "HashCode": -889169430,
         "Kind": "Components.Component",
-        "Name": "NorthwindBlazorServer.Pages.FetchData",
+        "Name": "NorthwindBlazorServer.Pages.EditCustomer",
         "AssemblyName": "NorthwindBlazorServer",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "FetchData"
+            "TagName": "EditCustomer"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "CustomerID",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "CustomerID"
+            }
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "NorthwindBlazorServer.Pages.FetchData"
+          "Common.TypeName": "NorthwindBlazorServer.Pages.EditCustomer"
         }
       },
       {
-        "HashCode": 55119837,
+        "HashCode": -1054469452,
         "Kind": "Components.Component",
-        "Name": "NorthwindBlazorServer.Pages.FetchData",
+        "Name": "NorthwindBlazorServer.Pages.EditCustomer",
         "AssemblyName": "NorthwindBlazorServer",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "NorthwindBlazorServer.Pages.FetchData"
+            "TagName": "NorthwindBlazorServer.Pages.EditCustomer"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "CustomerID",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "CustomerID"
+            }
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "NorthwindBlazorServer.Pages.FetchData",
+          "Common.TypeName": "NorthwindBlazorServer.Pages.EditCustomer",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -833013918,
+        "Kind": "Components.Component",
+        "Name": "NorthwindBlazorServer.App",
+        "AssemblyName": "NorthwindBlazorServer",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "App"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "NorthwindBlazorServer.App"
+        }
+      },
+      {
+        "HashCode": 1975989988,
+        "Kind": "Components.Component",
+        "Name": "NorthwindBlazorServer.App",
+        "AssemblyName": "NorthwindBlazorServer",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "NorthwindBlazorServer.App"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "NorthwindBlazorServer.App",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -289,39 +597,6 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "NorthwindBlazorServer.Shared.NavMenu",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -833013918,
-        "Kind": "Components.Component",
-        "Name": "NorthwindBlazorServer.App",
-        "AssemblyName": "NorthwindBlazorServer",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "App"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "NorthwindBlazorServer.App"
-        }
-      },
-      {
-        "HashCode": 1975989988,
-        "Kind": "Components.Component",
-        "Name": "NorthwindBlazorServer.App",
-        "AssemblyName": "NorthwindBlazorServer",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "NorthwindBlazorServer.App"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "NorthwindBlazorServer.App",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -15943,8 +16218,23 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter14/NorthwindBlazorServer/Pages/CustomerDetail.razor",
+      "TargetPath": "Pages\\CustomerDetail.razor",
+      "FileKind": "component"
+    },
+    {
       "FilePath": "/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter14/NorthwindBlazorServer/Shared/MainLayout.razor",
       "TargetPath": "Shared\\MainLayout.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter14/NorthwindBlazorServer/Pages/EditCustomer.razor",
+      "TargetPath": "Pages\\EditCustomer.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter14/NorthwindBlazorServer/Pages/CreateCustomer.razor",
+      "TargetPath": "Pages\\CreateCustomer.razor",
       "FileKind": "component"
     },
     {
@@ -15975,6 +16265,16 @@
     {
       "FilePath": "/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter14/NorthwindBlazorServer/Shared/SurveyPrompt.razor",
       "TargetPath": "Shared\\SurveyPrompt.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter14/NorthwindBlazorServer/Pages/DeleteCustomer.razor",
+      "TargetPath": "Pages\\DeleteCustomer.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter14/NorthwindBlazorServer/Pages/Customers.razor",
+      "TargetPath": "Pages\\Customers.razor",
       "FileKind": "component"
     },
     {

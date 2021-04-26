@@ -85,3 +85,11 @@
 /home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter14/NorthwindBlazorServer/bin/Debug/net5.0/NorthwindEntitiesLib.dll
 /home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter14/NorthwindBlazorServer/bin/Debug/net5.0/NorthwindContextLib.pdb
 /home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter14/NorthwindBlazorServer/bin/Debug/net5.0/NorthwindEntitiesLib.pdb
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter14/NorthwindBlazorServer/obj/Debug/net5.0/RazorDeclaration/Pages/CreateCustomer.razor.g.cs
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter14/NorthwindBlazorServer/obj/Debug/net5.0/RazorDeclaration/Pages/CustomerDetail.razor.g.cs
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter14/NorthwindBlazorServer/obj/Debug/net5.0/RazorDeclaration/Pages/DeleteCustomer.razor.g.cs
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter14/NorthwindBlazorServer/obj/Debug/net5.0/RazorDeclaration/Pages/EditCustomer.razor.g.cs
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter14/NorthwindBlazorServer/obj/Debug/net5.0/Razor/Pages/CreateCustomer.razor.g.cs
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter14/NorthwindBlazorServer/obj/Debug/net5.0/Razor/Pages/CustomerDetail.razor.g.cs
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter14/NorthwindBlazorServer/obj/Debug/net5.0/Razor/Pages/DeleteCustomer.razor.g.cs
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter14/NorthwindBlazorServer/obj/Debug/net5.0/Razor/Pages/EditCustomer.razor.g.cs
