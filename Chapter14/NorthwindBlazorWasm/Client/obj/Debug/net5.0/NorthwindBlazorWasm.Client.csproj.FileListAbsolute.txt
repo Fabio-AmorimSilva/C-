@@ -642,3 +642,13 @@
 /home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter14/NorthwindBlazorWasm/Client/bin/Debug/net5.0/wwwroot/_framework/NorthwindEntitiesLib.dll
 /home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter14/NorthwindBlazorWasm/Client/bin/Debug/net5.0/wwwroot/_framework/NorthwindEntitiesLib.pdb
 /home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter14/NorthwindBlazorWasm/Client/obj/Debug/net5.0/build-gz/FLCBeLOB.gz
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter14/NorthwindBlazorWasm/Client/obj/Debug/net5.0/RazorDeclaration/Pages/CreateCustomer.razor.g.cs
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter14/NorthwindBlazorWasm/Client/obj/Debug/net5.0/RazorDeclaration/Pages/CustomerDetail.razor.g.cs
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter14/NorthwindBlazorWasm/Client/obj/Debug/net5.0/RazorDeclaration/Pages/Customers.razor.g.cs
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter14/NorthwindBlazorWasm/Client/obj/Debug/net5.0/RazorDeclaration/Pages/DeleteCustomer.razor.g.cs
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter14/NorthwindBlazorWasm/Client/obj/Debug/net5.0/RazorDeclaration/Pages/EditCustomer.razor.g.cs
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter14/NorthwindBlazorWasm/Client/obj/Debug/net5.0/Razor/Pages/CreateCustomer.razor.g.cs
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter14/NorthwindBlazorWasm/Client/obj/Debug/net5.0/Razor/Pages/CustomerDetail.razor.g.cs
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter14/NorthwindBlazorWasm/Client/obj/Debug/net5.0/Razor/Pages/Customers.razor.g.cs
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter14/NorthwindBlazorWasm/Client/obj/Debug/net5.0/Razor/Pages/DeleteCustomer.razor.g.cs
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter14/NorthwindBlazorWasm/Client/obj/Debug/net5.0/Razor/Pages/EditCustomer.razor.g.cs

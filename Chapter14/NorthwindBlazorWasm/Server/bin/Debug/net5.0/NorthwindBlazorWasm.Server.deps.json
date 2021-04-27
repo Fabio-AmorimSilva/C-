@@ -788,7 +788,7 @@
         "dependencies": {
           "Microsoft.AspNetCore.Components.WebAssembly": "5.0.5",
           "NorthwindBlazorWasm.Shared": "1.0.0",
-          "NorthwindContextLib": "1.0.0",
+          "NorthwindEntitiesLib": "1.0.0",
           "System.Net.Http.Json": "5.0.0"
         },
         "runtime": {

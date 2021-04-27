@@ -80,6 +80,13 @@ using NorthwindBlazorWasm.Client.Shared;
 #line hidden
 #nullable disable
 #nullable restore
+#line 11 "/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter14/NorthwindBlazorWasm/Client/_Imports.razor"
+using Packt.CS7;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
 #line 2 "/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter14/NorthwindBlazorWasm/Client/Pages/FetchData.razor"
 using NorthwindBlazorWasm.Shared;
 

@@ -2,7 +2,7 @@ using System.Collections.Generic;
 using System.Threading.Tasks;
 using Packt.CS7;
 
-namespace NorthwindBlazorServer.Data
+namespace NorthwindBlazorWasm.Client
 {
     public interface INorthwindService
     {

@@ -1,7 +1,7 @@
 ﻿self.assetsManifest = {
   "assets": [
     {
-      "hash": "sha256-g46417BJ1wwG4k8T2uHtqEagxzLGB+EdD2oeZwz0ofc=",
+      "hash": "sha256-FoKb4FkE8x5tBI9kxnp8lW2wBKPWjPseuSL4oIbIq\/8=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -801,11 +801,11 @@
       "url": "_framework\/NorthwindEntitiesLib.pdb"
     },
     {
-      "hash": "sha256-uG\/YkLgrrMC88xWgWqkYkfOPxSIClUrezFJHb+EciTA=",
+      "hash": "sha256-o2c+Qn7\/\/bTBL9Ixy2pSTqM4cPrhxZJfuuqOO8geC94=",
       "url": "_framework\/NorthwindBlazorWasm.Client.dll"
     },
     {
-      "hash": "sha256-pJWDpC9\/R7I54kcPln96gOrFnddkGwGCWUT+WobDNBU=",
+      "hash": "sha256-8R5JSDojnw2a8f9uKrNk3xXA\/rTDLqIYGuVLoKU7iaE=",
       "url": "_framework\/NorthwindBlazorWasm.Client.pdb"
     },
     {
@@ -1673,5 +1673,5 @@
       "url": "NorthwindBlazorWasm.Client.bundle.scp.css"
     }
   ],
-  "version": "fFhOIDOP"
+  "version": "dEF71VsJ"
 };
