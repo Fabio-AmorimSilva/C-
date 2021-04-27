@@ -6,6 +6,9 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using System.Linq;
+using System.IO;
+using NorthwindContextLib;
+using Microsoft.EntityFrameworkCore;
 
 namespace NorthwindBlazorWasm.Server
 {
@@ -22,6 +25,12 @@ namespace NorthwindBlazorWasm.Server
         // For more information on how to configure your application, visit https://go.microsoft.com/fwlink/?LinkID=398940
         public void ConfigureServices(IServiceCollection services)
         {
+
+            //Database link
+            string dataBasePath = Path.Combine("..", "Northwind.Sqlite3.db");
+
+            services.AddDbContext<Northwind>(options => 
+                options.UseSqlite($"Data Source={dataBasePath}"));
 
             services.AddControllersWithViews();
             services.AddRazorPages();

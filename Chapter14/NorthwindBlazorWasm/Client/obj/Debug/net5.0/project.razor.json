@@ -8,138 +8,6 @@
   "ProjectWorkspaceState": {
     "TagHelpers": [
       {
-        "HashCode": 281608927,
-        "Kind": "Components.Component",
-        "Name": "NorthwindBlazorWasm.Client.App",
-        "AssemblyName": "NorthwindBlazorWasm.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "App"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "NorthwindBlazorWasm.Client.App"
-        }
-      },
-      {
-        "HashCode": 1335353911,
-        "Kind": "Components.Component",
-        "Name": "NorthwindBlazorWasm.Client.App",
-        "AssemblyName": "NorthwindBlazorWasm.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "NorthwindBlazorWasm.Client.App"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "NorthwindBlazorWasm.Client.App",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -2055671873,
-        "Kind": "Components.Component",
-        "Name": "NorthwindBlazorWasm.Client.Pages.Counter",
-        "AssemblyName": "NorthwindBlazorWasm.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Counter"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "NorthwindBlazorWasm.Client.Pages.Counter"
-        }
-      },
-      {
-        "HashCode": 610856304,
-        "Kind": "Components.Component",
-        "Name": "NorthwindBlazorWasm.Client.Pages.Counter",
-        "AssemblyName": "NorthwindBlazorWasm.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "NorthwindBlazorWasm.Client.Pages.Counter"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "NorthwindBlazorWasm.Client.Pages.Counter",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -1805369860,
-        "Kind": "Components.Component",
-        "Name": "NorthwindBlazorWasm.Client.Pages.Index",
-        "AssemblyName": "NorthwindBlazorWasm.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "NorthwindBlazorWasm.Client.Pages.Index"
-        }
-      },
-      {
-        "HashCode": -606267290,
-        "Kind": "Components.Component",
-        "Name": "NorthwindBlazorWasm.Client.Pages.Index",
-        "AssemblyName": "NorthwindBlazorWasm.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "NorthwindBlazorWasm.Client.Pages.Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "NorthwindBlazorWasm.Client.Pages.Index",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -938241262,
-        "Kind": "Components.Component",
-        "Name": "NorthwindBlazorWasm.Client.Pages.FetchData",
-        "AssemblyName": "NorthwindBlazorWasm.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "FetchData"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "NorthwindBlazorWasm.Client.Pages.FetchData"
-        }
-      },
-      {
-        "HashCode": -26671834,
-        "Kind": "Components.Component",
-        "Name": "NorthwindBlazorWasm.Client.Pages.FetchData",
-        "AssemblyName": "NorthwindBlazorWasm.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "NorthwindBlazorWasm.Client.Pages.FetchData"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "NorthwindBlazorWasm.Client.Pages.FetchData",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": -1097004773,
         "Kind": "Components.Component",
         "Name": "NorthwindBlazorWasm.Client.Shared.SurveyPrompt",
@@ -318,6 +186,138 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "NorthwindBlazorWasm.Client.Shared.NavMenu",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -2055671873,
+        "Kind": "Components.Component",
+        "Name": "NorthwindBlazorWasm.Client.Pages.Counter",
+        "AssemblyName": "NorthwindBlazorWasm.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Counter"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "NorthwindBlazorWasm.Client.Pages.Counter"
+        }
+      },
+      {
+        "HashCode": 610856304,
+        "Kind": "Components.Component",
+        "Name": "NorthwindBlazorWasm.Client.Pages.Counter",
+        "AssemblyName": "NorthwindBlazorWasm.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "NorthwindBlazorWasm.Client.Pages.Counter"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "NorthwindBlazorWasm.Client.Pages.Counter",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -1805369860,
+        "Kind": "Components.Component",
+        "Name": "NorthwindBlazorWasm.Client.Pages.Index",
+        "AssemblyName": "NorthwindBlazorWasm.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "NorthwindBlazorWasm.Client.Pages.Index"
+        }
+      },
+      {
+        "HashCode": -606267290,
+        "Kind": "Components.Component",
+        "Name": "NorthwindBlazorWasm.Client.Pages.Index",
+        "AssemblyName": "NorthwindBlazorWasm.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "NorthwindBlazorWasm.Client.Pages.Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "NorthwindBlazorWasm.Client.Pages.Index",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -938241262,
+        "Kind": "Components.Component",
+        "Name": "NorthwindBlazorWasm.Client.Pages.FetchData",
+        "AssemblyName": "NorthwindBlazorWasm.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "FetchData"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "NorthwindBlazorWasm.Client.Pages.FetchData"
+        }
+      },
+      {
+        "HashCode": -26671834,
+        "Kind": "Components.Component",
+        "Name": "NorthwindBlazorWasm.Client.Pages.FetchData",
+        "AssemblyName": "NorthwindBlazorWasm.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "NorthwindBlazorWasm.Client.Pages.FetchData"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "NorthwindBlazorWasm.Client.Pages.FetchData",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 281608927,
+        "Kind": "Components.Component",
+        "Name": "NorthwindBlazorWasm.Client.App",
+        "AssemblyName": "NorthwindBlazorWasm.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "App"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "NorthwindBlazorWasm.Client.App"
+        }
+      },
+      {
+        "HashCode": 1335353911,
+        "Kind": "Components.Component",
+        "Name": "NorthwindBlazorWasm.Client.App",
+        "AssemblyName": "NorthwindBlazorWasm.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "NorthwindBlazorWasm.Client.App"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "NorthwindBlazorWasm.Client.App",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
