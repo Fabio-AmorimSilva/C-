@@ -4,7 +4,7 @@
 #pragma warning disable 0649
 #pragma warning disable 0169
 
-namespace NorthwindBlazorWasm.Client.Shared
+namespace NorthwindBlazorWasm.Client.Pages
 {
     #line hidden
     using System;
@@ -89,7 +89,7 @@ using Packt.CS7;
 #line default
 #line hidden
 #nullable disable
-    public partial class SurveyPrompt : Microsoft.AspNetCore.Components.ComponentBase
+    public partial class CustomerDetail : Microsoft.AspNetCore.Components.ComponentBase
     {
         #pragma warning disable 1998
         protected override void BuildRenderTree(Microsoft.AspNetCore.Components.Rendering.RenderTreeBuilder __builder)
@@ -97,11 +97,19 @@ using Packt.CS7;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 12 "/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter14/NorthwindBlazorWasm/Client/Shared/SurveyPrompt.razor"
+#line 44 "/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter14/NorthwindBlazorWasm/Client/Pages/CustomerDetail.razor"
        
-    // Demonstrates how a parent component can supply parameters
+
     [Parameter]
-    public string Title { get; set; }
+    public Customer Customer{get; set;}
+    [Parameter]
+    public string ButtonText{get; set;} = "Save Changes";
+    [Parameter]
+    public string ButtonStyle{get; set;} = "info";
+    [Parameter]
+    public EventCallback OnValidSubmit{get; set;}
+
+
 
 #line default
 #line hidden

@@ -1634,7 +1634,8 @@
     "net5.0": [
       "Microsoft.AspNetCore.Components.WebAssembly.Server >= 5.0.5",
       "NorthwindBlazorWasm.Client >= 1.0.0",
-      "NorthwindBlazorWasm.Shared >= 1.0.0"
+      "NorthwindBlazorWasm.Shared >= 1.0.0",
+      "NorthwindContextLib >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -1667,6 +1668,9 @@
             },
             "/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter14/NorthwindBlazorWasm/Shared/NorthwindBlazorWasm.Shared.csproj": {
               "projectPath": "/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter14/NorthwindBlazorWasm/Shared/NorthwindBlazorWasm.Shared.csproj"
+            },
+            "/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter14/NorthwindContextLib/NorthwindContextLib.csproj": {
+              "projectPath": "/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter14/NorthwindContextLib/NorthwindContextLib.csproj"
             }
           }
         }

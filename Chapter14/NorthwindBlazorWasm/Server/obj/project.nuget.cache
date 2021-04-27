@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "ulRCwwVQ+eVykHGZq8o6GW83Mp8AGi6uanoWLU4X99bE54cZVgphqGeyfZc2BzfD9ntBDlKXvkNBOHH18k1MKA==",
+  "dgSpecHash": "+z5n2LwLeqUDKZJKVim9QWqXcB+/TR2OKakr/+I87KwuQtQavMhUMOd9TneV19HYm8Ki9q+dULdUCtI6d4AmNg==",
   "success": true,
   "projectFilePath": "/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter14/NorthwindBlazorWasm/Server/NorthwindBlazorWasm.Server.csproj",
   "expectedPackageFiles": [

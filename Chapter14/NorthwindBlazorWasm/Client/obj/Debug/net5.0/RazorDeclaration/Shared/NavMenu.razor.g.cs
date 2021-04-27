@@ -82,6 +82,13 @@ using NorthwindBlazorWasm.Client.Shared;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 11 "/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter14/NorthwindBlazorWasm/Client/_Imports.razor"
+using Packt.CS7;
+
+#line default
+#line hidden
+#nullable disable
     public partial class NavMenu : Microsoft.AspNetCore.Components.ComponentBase
     {
         #pragma warning disable 1998
@@ -90,7 +97,7 @@ using NorthwindBlazorWasm.Client.Shared;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 28 "/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter14/NorthwindBlazorWasm/Client/Shared/NavMenu.razor"
+#line 34 "/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter14/NorthwindBlazorWasm/Client/Shared/NavMenu.razor"
        
     private bool collapseNavMenu = true;
 

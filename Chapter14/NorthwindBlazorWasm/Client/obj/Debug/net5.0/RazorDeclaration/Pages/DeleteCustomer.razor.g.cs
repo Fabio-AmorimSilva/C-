@@ -4,7 +4,7 @@
 #pragma warning disable 0649
 #pragma warning disable 0169
 
-namespace NorthwindBlazorWasm.Client.Shared
+namespace NorthwindBlazorWasm.Client.Pages
 {
     #line hidden
     using System;
@@ -89,7 +89,8 @@ using Packt.CS7;
 #line default
 #line hidden
 #nullable disable
-    public partial class SurveyPrompt : Microsoft.AspNetCore.Components.ComponentBase
+    [Microsoft.AspNetCore.Components.RouteAttribute("/deletecustomer/{customerid}")]
+    public partial class DeleteCustomer : Microsoft.AspNetCore.Components.ComponentBase
     {
         #pragma warning disable 1998
         protected override void BuildRenderTree(Microsoft.AspNetCore.Components.Rendering.RenderTreeBuilder __builder)
@@ -97,15 +98,28 @@ using Packt.CS7;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 12 "/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter14/NorthwindBlazorWasm/Client/Shared/SurveyPrompt.razor"
+#line 13 "/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter14/NorthwindBlazorWasm/Client/Pages/DeleteCustomer.razor"
        
-    // Demonstrates how a parent component can supply parameters
+
     [Parameter]
-    public string Title { get; set; }
+    public string CustomerID{get; set;}
+    private Customer customer = new Customer();
+    protected async override Task OnParametersSetAsync(){
+        customer = await service.GetCustomerAsync(CustomerID);
+
+    }
+
+    private async Task Delete(){
+        await service.DeleteCustomerAsync(CustomerID);
+        navigation.NavigateTo("customers");
+        
+    }
 
 #line default
 #line hidden
 #nullable disable
+        [global::Microsoft.AspNetCore.Components.InjectAttribute] private NavigationManager navigation { get; set; }
+        [global::Microsoft.AspNetCore.Components.InjectAttribute] private INorthwindService service { get; set; }
     }
 }
 #pragma warning restore 1591

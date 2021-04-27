@@ -1,7 +1,7 @@
 ﻿self.assetsManifest = {
   "assets": [
     {
-      "hash": "sha256-dTscTszRzXKwMWvo4FPnzO2mYXs55ynxFjeES1VzE78=",
+      "hash": "sha256-g46417BJ1wwG4k8T2uHtqEagxzLGB+EdD2oeZwz0ofc=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -27,38 +27,6 @@
     {
       "hash": "sha256-jB89nHfDKh5Qw5L3QYLKim3zIRZlFEPTtlMHt4hnYME=",
       "url": "_framework\/Microsoft.AspNetCore.Metadata.dll"
-    },
-    {
-      "hash": "sha256-GYikKhVWqNvKf5d4CYhCS4tbNUVMwk3u01fjRnOkFRM=",
-      "url": "_framework\/Microsoft.Data.Sqlite.dll"
-    },
-    {
-      "hash": "sha256-XkJNODpZkXmqn+9lJQ21ybRP3Ehpp5Q7yJS9qFYkaYU=",
-      "url": "_framework\/Microsoft.DotNet.PlatformAbstractions.dll"
-    },
-    {
-      "hash": "sha256-rDuvjJ6g6H9oVWng4FmxpxvZhTug23JLBB4ueG\/EcdA=",
-      "url": "_framework\/Microsoft.EntityFrameworkCore.dll"
-    },
-    {
-      "hash": "sha256-5ChM95Chm+\/1IvWEZl\/5\/MxMbmg3YyDf9wxMBa\/8F+U=",
-      "url": "_framework\/Microsoft.EntityFrameworkCore.Abstractions.dll"
-    },
-    {
-      "hash": "sha256-oj2r9zbVYHmOrfDZ5hc5ku0dBHEaRu58XQgoQNlVjgs=",
-      "url": "_framework\/Microsoft.EntityFrameworkCore.Relational.dll"
-    },
-    {
-      "hash": "sha256-q\/GAwqeF\/5gean9SFPWmFS\/n2GwlufiRUurB64UGgFA=",
-      "url": "_framework\/Microsoft.EntityFrameworkCore.Sqlite.dll"
-    },
-    {
-      "hash": "sha256-kKF20pY7ZxsNFVBA6Sqe9oTA2c5Z9bFg77bJLaI+f7U=",
-      "url": "_framework\/Microsoft.Extensions.Caching.Abstractions.dll"
-    },
-    {
-      "hash": "sha256-CbubEUsH8geH\/C2ZYdeq3h0QH5ZgUFccEMyLy0bjcNE=",
-      "url": "_framework\/Microsoft.Extensions.Caching.Memory.dll"
     },
     {
       "hash": "sha256-x9zYR1t1is\/fStNpBiQnXyPdMpLLcQcra3w4RXGSg4o=",
@@ -87,10 +55,6 @@
     {
       "hash": "sha256-D9y5RXbA\/sEzwk6cnGbGMKQv87bvOEEVycrLUTe0lGU=",
       "url": "_framework\/Microsoft.Extensions.DependencyInjection.Abstractions.dll"
-    },
-    {
-      "hash": "sha256-WoWSAdYQLGL7xQJQsbcxc2JLHz0auqG1FvZrvDda69k=",
-      "url": "_framework\/Microsoft.Extensions.DependencyModel.dll"
     },
     {
       "hash": "sha256-aUKLFqSgB\/hwZc41dLVKoRSKRghShpfQPVMhoRzpz5M=",
@@ -127,22 +91,6 @@
     {
       "hash": "sha256-w0G2c9HerfjA2TOs+L4Ufnrt9MsR8b+nLA5\/yt+ytxg=",
       "url": "_framework\/Microsoft.JSInterop.WebAssembly.dll"
-    },
-    {
-      "hash": "sha256-sjbydTbuYVF6PxAVxLwTpUOR9hmfsU3nrglG\/CnK2j8=",
-      "url": "_framework\/SQLitePCLRaw.batteries_v2.dll"
-    },
-    {
-      "hash": "sha256-nySvtIOrJp9StVb0Mqyi+eWrBr8w1oEeJwXf\/aVfgoU=",
-      "url": "_framework\/SQLitePCLRaw.nativelibrary.dll"
-    },
-    {
-      "hash": "sha256-0BQwQkuL\/Ol6TSPnnp1qybVhQpnzCmipF99BMexZ2DU=",
-      "url": "_framework\/SQLitePCLRaw.core.dll"
-    },
-    {
-      "hash": "sha256-LCX4dAG+zSt5odKQnx\/y2lz6xY09MX8d4CVWdGN22Pc=",
-      "url": "_framework\/SQLitePCLRaw.provider.dynamic_cdecl.dll"
     },
     {
       "hash": "sha256-3ET+mpR7F058YRj9YaLHOVXBqOW6iUxtIpeiKPYw4PA=",
@@ -841,10 +789,6 @@
       "url": "_framework\/NorthwindBlazorWasm.Shared.dll"
     },
     {
-      "hash": "sha256-tpJBs95XwiARG7u7tLRlfOycpIqpQdKg0Lfgi5y8LOQ=",
-      "url": "_framework\/NorthwindContextLib.dll"
-    },
-    {
       "hash": "sha256-h6AVSBtRy4i11T8ACIQwRuxqYWlb0WD7SHiRdwSPt5Q=",
       "url": "_framework\/NorthwindEntitiesLib.dll"
     },
@@ -853,19 +797,15 @@
       "url": "_framework\/NorthwindBlazorWasm.Shared.pdb"
     },
     {
-      "hash": "sha256-lEB7WTVBsj4B3Qd39\/i9kCxEgShBb0bWh49fDlXESCI=",
-      "url": "_framework\/NorthwindContextLib.pdb"
-    },
-    {
       "hash": "sha256-U5VQQJCPpyh3UTgbp6pGI96AQfFB+hhhpyzzJRCjvN0=",
       "url": "_framework\/NorthwindEntitiesLib.pdb"
     },
     {
-      "hash": "sha256-TkXAFnTyXiur8r7FOYjG+9MdqnMBI\/Duve3Sy4KGonk=",
+      "hash": "sha256-uG\/YkLgrrMC88xWgWqkYkfOPxSIClUrezFJHb+EciTA=",
       "url": "_framework\/NorthwindBlazorWasm.Client.dll"
     },
     {
-      "hash": "sha256-Tw\/mxXgVW2LXB+vfZneKeONpFn6xBL+EYMGMrk2Klb4=",
+      "hash": "sha256-pJWDpC9\/R7I54kcPln96gOrFnddkGwGCWUT+WobDNBU=",
       "url": "_framework\/NorthwindBlazorWasm.Client.pdb"
     },
     {
@@ -897,38 +837,6 @@
       "url": "_framework\/Microsoft.AspNetCore.Metadata.dll.gz"
     },
     {
-      "hash": "sha256-SRzXqOnDwI5Ev68xwKQvDIH3gA1n0LQPD1JnfyIT63U=",
-      "url": "_framework\/Microsoft.Data.Sqlite.dll.gz"
-    },
-    {
-      "hash": "sha256-WJqSEf\/WPKOxWRbaoixrEkbYssASnwEgDBu4i450rXk=",
-      "url": "_framework\/Microsoft.DotNet.PlatformAbstractions.dll.gz"
-    },
-    {
-      "hash": "sha256-FG2CKOA+C8Xx7gtA9azzAOhIQjr\/ZHiHbbBSP+lgM6A=",
-      "url": "_framework\/Microsoft.EntityFrameworkCore.dll.gz"
-    },
-    {
-      "hash": "sha256-GMx1HMxhUnwId4ItdyVj7JqFJ0lNsxfgBZZHqE2vKws=",
-      "url": "_framework\/Microsoft.EntityFrameworkCore.Abstractions.dll.gz"
-    },
-    {
-      "hash": "sha256-nV1564Dc41jPh0Q\/s3xHCDaZRdrjBr8YyFYsScH5Jb4=",
-      "url": "_framework\/Microsoft.EntityFrameworkCore.Relational.dll.gz"
-    },
-    {
-      "hash": "sha256-qTDTvylbfO\/o7S9NPKBdpXvop7sfXoCzJDjRWCw0fyk=",
-      "url": "_framework\/Microsoft.EntityFrameworkCore.Sqlite.dll.gz"
-    },
-    {
-      "hash": "sha256-0aT6NF1DTxDk4E22cUQ2yrecJbM1KfF\/EKvXn96mjZo=",
-      "url": "_framework\/Microsoft.Extensions.Caching.Abstractions.dll.gz"
-    },
-    {
-      "hash": "sha256-lVmMTadeHu9FOu2zwO5EvJa5KAHfjOoSGQBZAeFVCZg=",
-      "url": "_framework\/Microsoft.Extensions.Caching.Memory.dll.gz"
-    },
-    {
       "hash": "sha256-C82YndEUrmWZ40wfygeuY75rvTQo1pTBTHwVLsEbJ9M=",
       "url": "_framework\/Microsoft.Extensions.Configuration.dll.gz"
     },
@@ -955,10 +863,6 @@
     {
       "hash": "sha256-yZCAxCes74xImd5kRkFJ4aBTi0Bp7rhTe5LR1ZZdM2o=",
       "url": "_framework\/Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz"
-    },
-    {
-      "hash": "sha256-9PQvnAoriOOBPgtzxenJnsWxONe4SGGxrHbnuM7TFxI=",
-      "url": "_framework\/Microsoft.Extensions.DependencyModel.dll.gz"
     },
     {
       "hash": "sha256-WUQIMFn+DryFyphqMkgLEEh+LGXFLpvJZ5EIlfBePk4=",
@@ -995,22 +899,6 @@
     {
       "hash": "sha256-D\/kxSDQ\/B6UC\/RgUqN1MQluSDKG+hUtdaKy9TeL3a\/g=",
       "url": "_framework\/Microsoft.JSInterop.WebAssembly.dll.gz"
-    },
-    {
-      "hash": "sha256-f1nMAxA62rYhdan4ai0of6doei\/P8fcHf1oaYJiEwj0=",
-      "url": "_framework\/SQLitePCLRaw.batteries_v2.dll.gz"
-    },
-    {
-      "hash": "sha256-OM+rx4A0YuNDZKFJ14Jb1D8D+Fyu2w5NjZrd7Kcl1LQ=",
-      "url": "_framework\/SQLitePCLRaw.nativelibrary.dll.gz"
-    },
-    {
-      "hash": "sha256-zej08KCTkqrEKi\/8UM3tSN7VW0TEGaaLDkFG6F\/HLEY=",
-      "url": "_framework\/SQLitePCLRaw.core.dll.gz"
-    },
-    {
-      "hash": "sha256-AnQ3TJaC04CoH4hEgA+SYnRnBZkrFXhexkJ5B7BFvJg=",
-      "url": "_framework\/SQLitePCLRaw.provider.dynamic_cdecl.dll.gz"
     },
     {
       "hash": "sha256-hj25I4zv1Ern5+ijIonthGJT7Y\/YA1JAD9feaiRmCCk=",
@@ -1709,10 +1597,6 @@
       "url": "_framework\/NorthwindBlazorWasm.Shared.dll.gz"
     },
     {
-      "hash": "sha256-n9QKW51wvEbDUwRndsVFUx7WUzQ9YNiGGI8Z9B94SrE=",
-      "url": "_framework\/NorthwindContextLib.dll.gz"
-    },
-    {
       "hash": "sha256-0yB7+37pj\/LIKzpJGOQtnF3CE95\/uqjiOQGNxDvWlmQ=",
       "url": "_framework\/NorthwindEntitiesLib.dll.gz"
     },
@@ -1789,5 +1673,5 @@
       "url": "NorthwindBlazorWasm.Client.bundle.scp.css"
     }
   ],
-  "version": "I97395fV"
+  "version": "fFhOIDOP"
 };

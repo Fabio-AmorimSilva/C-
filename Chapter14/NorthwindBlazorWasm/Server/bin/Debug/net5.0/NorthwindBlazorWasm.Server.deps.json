@@ -36,6 +36,7 @@
           "Microsoft.AspNetCore.Components.WebAssembly.Server": "5.0.5",
           "NorthwindBlazorWasm.Client": "1.0.0",
           "NorthwindBlazorWasm.Shared": "1.0.0",
+          "NorthwindContextLib": "1.0.0",
           "Microsoft.AspNetCore.Antiforgery": "5.0.0.0",
           "Microsoft.AspNetCore.Authentication.Abstractions": "5.0.0.0",
           "Microsoft.AspNetCore.Authentication.Cookies": "5.0.0.0",
