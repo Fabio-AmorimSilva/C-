@@ -1,5 +1,0 @@
-/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter14/NorthwindEntitesLib/obj/Debug/net5.0/NorthwindEntitesLib.csprojAssemblyReference.cache
-/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter14/NorthwindEntitesLib/obj/Debug/net5.0/NorthwindEntitesLib.GeneratedMSBuildEditorConfig.editorconfig
-/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter14/NorthwindEntitesLib/obj/Debug/net5.0/NorthwindEntitesLib.AssemblyInfoInputs.cache
-/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter14/NorthwindEntitesLib/obj/Debug/net5.0/NorthwindEntitesLib.AssemblyInfo.cs
-/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter14/NorthwindEntitesLib/obj/Debug/net5.0/NorthwindEntitesLib.csproj.CoreCompileInputs.cache
