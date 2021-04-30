@@ -1,0 +1,16 @@
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter5/person/bin/Debug/net5.0/person
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter5/person/bin/Debug/net5.0/person.deps.json
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter5/person/bin/Debug/net5.0/person.runtimeconfig.json
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter5/person/bin/Debug/net5.0/person.runtimeconfig.dev.json
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter5/person/bin/Debug/net5.0/person.dll
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter5/person/bin/Debug/net5.0/ref/person.dll
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter5/person/bin/Debug/net5.0/person.pdb
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter5/person/obj/Debug/net5.0/person.csprojAssemblyReference.cache
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter5/person/obj/Debug/net5.0/person.GeneratedMSBuildEditorConfig.editorconfig
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter5/person/obj/Debug/net5.0/person.AssemblyInfoInputs.cache
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter5/person/obj/Debug/net5.0/person.AssemblyInfo.cs
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter5/person/obj/Debug/net5.0/person.csproj.CoreCompileInputs.cache
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter5/person/obj/Debug/net5.0/person.dll
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter5/person/obj/Debug/net5.0/ref/person.dll
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter5/person/obj/Debug/net5.0/person.pdb
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter5/person/obj/Debug/net5.0/person.genruntimeconfig.cache

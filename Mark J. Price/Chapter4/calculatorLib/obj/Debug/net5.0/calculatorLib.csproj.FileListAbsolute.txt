@@ -1,0 +1,12 @@
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter4/calculatorLib/bin/Debug/net5.0/calculatorLib.deps.json
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter4/calculatorLib/bin/Debug/net5.0/calculatorLib.dll
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter4/calculatorLib/bin/Debug/net5.0/ref/calculatorLib.dll
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter4/calculatorLib/bin/Debug/net5.0/calculatorLib.pdb
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter4/calculatorLib/obj/Debug/net5.0/calculatorLib.csprojAssemblyReference.cache
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter4/calculatorLib/obj/Debug/net5.0/calculatorLib.GeneratedMSBuildEditorConfig.editorconfig
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter4/calculatorLib/obj/Debug/net5.0/calculatorLib.AssemblyInfoInputs.cache
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter4/calculatorLib/obj/Debug/net5.0/calculatorLib.AssemblyInfo.cs
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter4/calculatorLib/obj/Debug/net5.0/calculatorLib.csproj.CoreCompileInputs.cache
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter4/calculatorLib/obj/Debug/net5.0/calculatorLib.dll
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter4/calculatorLib/obj/Debug/net5.0/ref/calculatorLib.dll
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter4/calculatorLib/obj/Debug/net5.0/calculatorLib.pdb

@@ -1,0 +1,12 @@
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter14/NorthwindEntitiesLib/bin/Debug/net5.0/NorthwindEntitiesLib.deps.json
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter14/NorthwindEntitiesLib/bin/Debug/net5.0/NorthwindEntitiesLib.dll
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter14/NorthwindEntitiesLib/bin/Debug/net5.0/ref/NorthwindEntitiesLib.dll
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter14/NorthwindEntitiesLib/bin/Debug/net5.0/NorthwindEntitiesLib.pdb
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter14/NorthwindEntitiesLib/obj/Debug/net5.0/NorthwindEntitiesLib.csprojAssemblyReference.cache
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter14/NorthwindEntitiesLib/obj/Debug/net5.0/NorthwindEntitiesLib.GeneratedMSBuildEditorConfig.editorconfig
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter14/NorthwindEntitiesLib/obj/Debug/net5.0/NorthwindEntitiesLib.AssemblyInfoInputs.cache
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter14/NorthwindEntitiesLib/obj/Debug/net5.0/NorthwindEntitiesLib.AssemblyInfo.cs
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter14/NorthwindEntitiesLib/obj/Debug/net5.0/NorthwindEntitiesLib.csproj.CoreCompileInputs.cache
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter14/NorthwindEntitiesLib/obj/Debug/net5.0/NorthwindEntitiesLib.dll
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter14/NorthwindEntitiesLib/obj/Debug/net5.0/ref/NorthwindEntitiesLib.dll
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter14/NorthwindEntitiesLib/obj/Debug/net5.0/NorthwindEntitiesLib.pdb

@@ -1,0 +1,16 @@
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter2/Basics/reflection/bin/Debug/net5.0/reflection
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter2/Basics/reflection/bin/Debug/net5.0/reflection.deps.json
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter2/Basics/reflection/bin/Debug/net5.0/reflection.runtimeconfig.json
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter2/Basics/reflection/bin/Debug/net5.0/reflection.runtimeconfig.dev.json
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter2/Basics/reflection/bin/Debug/net5.0/reflection.dll
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter2/Basics/reflection/bin/Debug/net5.0/ref/reflection.dll
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter2/Basics/reflection/bin/Debug/net5.0/reflection.pdb
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter2/Basics/reflection/obj/Debug/net5.0/reflection.csprojAssemblyReference.cache
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter2/Basics/reflection/obj/Debug/net5.0/reflection.GeneratedMSBuildEditorConfig.editorconfig
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter2/Basics/reflection/obj/Debug/net5.0/reflection.AssemblyInfoInputs.cache
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter2/Basics/reflection/obj/Debug/net5.0/reflection.AssemblyInfo.cs
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter2/Basics/reflection/obj/Debug/net5.0/reflection.csproj.CoreCompileInputs.cache
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter2/Basics/reflection/obj/Debug/net5.0/reflection.dll
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter2/Basics/reflection/obj/Debug/net5.0/ref/reflection.dll
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter2/Basics/reflection/obj/Debug/net5.0/reflection.pdb
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter2/Basics/reflection/obj/Debug/net5.0/reflection.genruntimeconfig.cache

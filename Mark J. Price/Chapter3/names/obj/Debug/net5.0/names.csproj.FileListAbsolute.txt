@@ -1,0 +1,16 @@
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter3/names/bin/Debug/net5.0/names
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter3/names/bin/Debug/net5.0/names.deps.json
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter3/names/bin/Debug/net5.0/names.runtimeconfig.json
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter3/names/bin/Debug/net5.0/names.runtimeconfig.dev.json
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter3/names/bin/Debug/net5.0/names.dll
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter3/names/bin/Debug/net5.0/ref/names.dll
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter3/names/bin/Debug/net5.0/names.pdb
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter3/names/obj/Debug/net5.0/names.csprojAssemblyReference.cache
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter3/names/obj/Debug/net5.0/names.GeneratedMSBuildEditorConfig.editorconfig
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter3/names/obj/Debug/net5.0/names.AssemblyInfoInputs.cache
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter3/names/obj/Debug/net5.0/names.AssemblyInfo.cs
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter3/names/obj/Debug/net5.0/names.csproj.CoreCompileInputs.cache
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter3/names/obj/Debug/net5.0/names.dll
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter3/names/obj/Debug/net5.0/ref/names.dll
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter3/names/obj/Debug/net5.0/names.pdb
+/home/fabio/Documentos/Linguagens de Programação/C#.NET/ModernC#/Chapter3/names/obj/Debug/net5.0/names.genruntimeconfig.cache
