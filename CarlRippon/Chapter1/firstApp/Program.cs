@@ -20,7 +20,6 @@ namespace firstApp
             Host.CreateDefaultBuilder(args)
                 .ConfigureWebHostDefaults(webBuilder =>
                 {
-                    webBuilder.UseContentRoot("localhost:6000");
                     webBuilder.UseStartup<Startup>();
                 });
     }

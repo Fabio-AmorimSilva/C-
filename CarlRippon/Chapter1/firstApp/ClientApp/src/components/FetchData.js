@@ -40,7 +40,7 @@ export class FetchData extends Component {
   render() {
     let contents = this.state.loading
       ? <p><em>Loading...</em></p>
-      : FetchData.renderForecastsTable(this.state.forecasts);
+      : JSON.parse(JSON.stringify(FetchData.renderForecastsTable(this.state.forecasts)));
 
     return (
       <div>
