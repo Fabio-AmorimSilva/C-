@@ -1,0 +1,16 @@
+C:\Users\Fabio-AmorimSilva\Documents\ProjetosC#\CSharp\Carl-Hugo-Marcotte\Chapter1\MyService\obj\Debug\net5.0\MyService.csprojAssemblyReference.cache
+C:\Users\Fabio-AmorimSilva\Documents\ProjetosC#\CSharp\Carl-Hugo-Marcotte\Chapter1\MyService\obj\Debug\net5.0\MyService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabio-AmorimSilva\Documents\ProjetosC#\CSharp\Carl-Hugo-Marcotte\Chapter1\MyService\obj\Debug\net5.0\MyService.AssemblyInfoInputs.cache
+C:\Users\Fabio-AmorimSilva\Documents\ProjetosC#\CSharp\Carl-Hugo-Marcotte\Chapter1\MyService\obj\Debug\net5.0\MyService.AssemblyInfo.cs
+C:\Users\Fabio-AmorimSilva\Documents\ProjetosC#\CSharp\Carl-Hugo-Marcotte\Chapter1\MyService\obj\Debug\net5.0\MyService.csproj.CoreCompileInputs.cache
+C:\Users\Fabio-AmorimSilva\Documents\ProjetosC#\CSharp\Carl-Hugo-Marcotte\Chapter1\MyService\bin\Debug\net5.0\MyService.deps.json
+C:\Users\Fabio-AmorimSilva\Documents\ProjetosC#\CSharp\Carl-Hugo-Marcotte\Chapter1\MyService\bin\Debug\net5.0\MyService.dll
+C:\Users\Fabio-AmorimSilva\Documents\ProjetosC#\CSharp\Carl-Hugo-Marcotte\Chapter1\MyService\bin\Debug\net5.0\ref\MyService.dll
+C:\Users\Fabio-AmorimSilva\Documents\ProjetosC#\CSharp\Carl-Hugo-Marcotte\Chapter1\MyService\bin\Debug\net5.0\MyService.pdb
+C:\Users\Fabio-AmorimSilva\Documents\ProjetosC#\CSharp\Carl-Hugo-Marcotte\Chapter1\MyService\obj\Debug\net5.0\MyService.dll
+C:\Users\Fabio-AmorimSilva\Documents\ProjetosC#\CSharp\Carl-Hugo-Marcotte\Chapter1\MyService\obj\Debug\net5.0\ref\MyService.dll
+C:\Users\Fabio-AmorimSilva\Documents\ProjetosC#\CSharp\Carl-Hugo-Marcotte\Chapter1\MyService\obj\Debug\net5.0\MyService.pdb
+C:\Users\Fabio-AmorimSilva\Documents\ProjetosC#\CSharp\Carl-Hugo-Marcotte\Chapter1\MyService\bin\Debug\net5.0\MyService.exe
+C:\Users\Fabio-AmorimSilva\Documents\ProjetosC#\CSharp\Carl-Hugo-Marcotte\Chapter1\MyService\bin\Debug\net5.0\MyService.runtimeconfig.json
+C:\Users\Fabio-AmorimSilva\Documents\ProjetosC#\CSharp\Carl-Hugo-Marcotte\Chapter1\MyService\bin\Debug\net5.0\MyService.runtimeconfig.dev.json
+C:\Users\Fabio-AmorimSilva\Documents\ProjetosC#\CSharp\Carl-Hugo-Marcotte\Chapter1\MyService\obj\Debug\net5.0\MyService.genruntimeconfig.cache
