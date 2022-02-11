@@ -1,0 +1,8 @@
+C:\Users\Fabio-AmorimSilva\Documents\ProjetosC#\CSharp\Carl-Hugo-Marcotte\Chapter3\OpenClosed\Final Program\obj\Debug\net6.0\Final Program.csproj.AssemblyReference.cache
+C:\Users\Fabio-AmorimSilva\Documents\ProjetosC#\CSharp\Carl-Hugo-Marcotte\Chapter3\OpenClosed\Final Program\obj\Debug\net6.0\Final Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabio-AmorimSilva\Documents\ProjetosC#\CSharp\Carl-Hugo-Marcotte\Chapter3\OpenClosed\Final Program\obj\Debug\net6.0\Final Program.AssemblyInfoInputs.cache
+C:\Users\Fabio-AmorimSilva\Documents\ProjetosC#\CSharp\Carl-Hugo-Marcotte\Chapter3\OpenClosed\Final Program\obj\Debug\net6.0\Final Program.AssemblyInfo.cs
+C:\Users\Fabio-AmorimSilva\Documents\ProjetosC#\CSharp\Carl-Hugo-Marcotte\Chapter3\OpenClosed\Final Program\obj\Debug\net6.0\Final Program.csproj.CoreCompileInputs.cache
+C:\Users\Fabio-AmorimSilva\Documents\ProjetosC#\CSharp\Carl-Hugo-Marcotte\Chapter3\OpenClosed\Final Program\obj\Debug\net6.0\Final Program.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Fabio-AmorimSilva\Documents\ProjetosC#\CSharp\Carl-Hugo-Marcotte\Chapter3\OpenClosed\Final Program\obj\Debug\net6.0\Final Program.RazorAssemblyInfo.cache
+C:\Users\Fabio-AmorimSilva\Documents\ProjetosC#\CSharp\Carl-Hugo-Marcotte\Chapter3\OpenClosed\Final Program\obj\Debug\net6.0\Final Program.RazorAssemblyInfo.cs
